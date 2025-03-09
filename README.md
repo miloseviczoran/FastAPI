@@ -2,7 +2,7 @@
 
 A full-stack **Todo App** built using **FastAPI**, **JavaScript**, **Python**, and **PostgreSQL**. The application is deployed on **Render** and managed using **GitHub**.
 
-🚀 Features
+# 🚀 Features
 
 - ✅ Create, update, delete tasks
 - 📌 Mark tasks as completed
@@ -11,7 +11,7 @@ A full-stack **Todo App** built using **FastAPI**, **JavaScript**, **Python**, a
 - 🌐 FastAPI backend with an interactive API
 - 💻 JavaScript frontend for a smooth user experience
 
-🏗️ Tech Stack
+# 🏗️ Tech Stack
 
 - **Backend:** FastAPI (Python)
 - **Frontend:** JavaScript (Vanilla/Framework)
@@ -19,7 +19,7 @@ A full-stack **Todo App** built using **FastAPI**, **JavaScript**, **Python**, a
 - **Deployment:** Render
 - **Version Control:** GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 FastAPI-TodoApp/ 
 │── .git/ # Git version control
 │── alembic/ # Database migrations
@@ -36,7 +36,7 @@ FastAPI-TodoApp/
 │── todosapp.db # Database file (if using SQLite locally)
 
 
-## 🛠️ Installation & Setup
+#🛠️ Installation & Setup
 Follow these steps to set up and run the project locally:
 
 1️⃣ Clone the Repository  
@@ -45,11 +45,11 @@ Follow these steps to set up and run the project locally:
   cd todo-app
 
 2️⃣ Create & Activate a Virtual Environment
-  # On Windows
+  On Windows
   python -m venv venv
   venv\Scripts\activate
   
-  # On macOS & Linux
+  On macOS & Linux
   python3 -m venv venv
   source venv/bin/activate
 
