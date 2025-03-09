@@ -36,7 +36,7 @@ FastAPI-TodoApp/
 │── todosapp.db # Database file (if using SQLite locally)
 
 
-#🛠️ Installation & Setup
+# 🛠️ Installation & Setup
 Follow these steps to set up and run the project locally:
 
 1️⃣ Clone the Repository  
@@ -71,11 +71,11 @@ Once the server is running, open your browser and go to:
   🔹 ReDoc: http://127.0.0.1:8000/redoc
 
 
-🌍 Live Demo
+# 🌍 Live Demo
 🚀 Check out the live version of the app:
 🔗 Todo App on Render: https://zoran-deployment-fastapi.onrender.com/
 
-📜 API Endpoints
+# 📜 API Endpoints
 Method	Endpoint	Description
   GET	/tasks	            Get all tasks
   POST	/tasks	          Create a new task
@@ -83,8 +83,8 @@ Method	Endpoint	Description
   PUT	/tasks/{id}	        Update a task
   DELETE	/tasks/{id}	    Delete a task
 
-🧪 Running Tests
+# 🧪 Running Tests
 pytest
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
